@@ -1,0 +1,11 @@
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\WebApplication5.exe
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\WebApplication5.dll
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\WebApplication5.deps.json
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\WebApplication5.runtimeconfig.json
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\WebApplication5.pdb
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\megalul\source\repos\WebApplication5\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
